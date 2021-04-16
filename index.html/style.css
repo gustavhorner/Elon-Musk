@@ -22,7 +22,7 @@ nav{
 
 }
 nav li{
-    display: inline block;
+    display: inline-block;
     list-style-type: disc;
     padding: auto;
     font: bold 13px Georgia, small
